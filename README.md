@@ -80,11 +80,7 @@ $ cd ~/
 $ mkdir microservicesParcial
 ```
 Se proceden a crear los siguientes archivos: <br>
-<b> files.py </b>
+<b> files.py </b> : [Vista del archivo](https://github.com/DavidPDP/microservicesSOParcial/blob/master/services_parcial/files.py) <br>
 
-[Vista del archivo](https://github.com/DavidPDP/microservicesSOParcial/blob/master/services_parcial/files.py) <br>
-
-<b> files_commands.py </b>
-
-[Vista del archivo](https://github.com/DavidPDP/microservicesSOParcial/blob/master/services_parcial/files_commands.py) <br>
+<b> files_commands.py </b> : [Vista del archivo](https://github.com/DavidPDP/microservicesSOParcial/blob/master/services_parcial/files_commands.py) <br>
 
