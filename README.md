@@ -10,7 +10,7 @@
 
 Se procede a crear el usuario filesystem_user con su respectiva contraseña.
 
-```c
+```java
 # useradd filesystem_user
 # passwd filesystem_user
 ```
