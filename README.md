@@ -22,7 +22,7 @@ Se adiciona el usuario filesystem_user al grupo del administrador(root).
 ```sh
 # usermod -G wheel filesystem_user
 # visudo
--> Se adiciona al visudo filesystem ALL=(ALL) ALL
+Se adiciona al visudo filesystem ALL=(ALL) ALL
 ```
 <b>
 
