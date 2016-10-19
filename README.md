@@ -7,7 +7,7 @@
 ##Supuestos
 
 Antes de la realización de este parcial, se tienen los siguientes supuestos: <br>
-* Se ha instalado las librerías. nano, man, git, 
+* Se ha instalado las librerías. nano, man y git. 
 * Se ha generado el token "parcial", que por seguridad se entenderá que "parcial" es el token.
 
 ##Preparación Del Ambiente De Trabajo
@@ -123,23 +123,23 @@ A continuación se muestran los formatos tipo JSON (intercambio de datos).
 ```
 ### /files
 <b> Método GET </b> <br>
-[!alt text]()
+[!alt text]() <br>
 <b> Método POST </b> <br>
-[!alt text]()
+[!alt text]() <br>
 <b> Método PUT </b> <br>
-[!alt text]()
+[!alt text]() <br>
 <b> Método DELETE </b> <br>
-[!alt text]()
+[!alt text]() <br>
 
 ### /files/recently_created
 <b> Método GET </b> <br>
-[!alt text]()
+[!alt text]() <br>
 <b> Método POST </b> <br>
-[!alt text]()
+[!alt text]() <br>
 <b> Método PUT </b> <br>
-[!alt text]()
+[!alt text]() <br>
 <b> Método DELETE </b> <br>
-[!alt text]()
+[!alt text]() <br>
 
 ##Envío de la solución por GitHub
 
