@@ -80,7 +80,44 @@ $ cd ~/
 $ mkdir microservicesParcial
 ```
 Se proceden a crear los siguientes archivos: <br>
+
 <b> files.py </b> : [Vista del archivo](https://github.com/DavidPDP/microservicesSOParcial/blob/master/services_parcial/files.py) <br>
 
 <b> files_commands.py </b> : [Vista del archivo](https://github.com/DavidPDP/microservicesSOParcial/blob/master/services_parcial/files_commands.py) <br>
+
+##Habilitar Puertos
+
+Una vez creado los archivos .py, se procede a activar los puertos.
+
+```sh
+# cd /etc/sysconfig/
+# nano iptables
+```
+Procedemos a reiniciar el servicio de iptables.
+
+[!alt text]()
+
+##Pruebas con PostMan
+
+Ahora proseguimos a probar los servicios creados por medio de la herramienta PostMan. <br>
+
+A continuación se muestran los formatos tipo JSON (intercambio de datos).
+
+```json
+{
+  "filename": "carta",
+  "content": "this is the file content"
+}
+```
+
+```json
+{
+  "files": [
+    "carta",
+    "listado",
+    "tareas",
+    "recordatorio"
+  ]
+}
+```
 
