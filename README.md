@@ -48,19 +48,20 @@ $ pip install -r requirements.txt
 
 Para la creación de servicios se describe los siguientes contratos.
 
+URIs.
 |   |POST   |GET   |PUT   |DELETE   |
 |---|---|---|---|---|
 | /files  | Crear archivo  | Obtener listado de archivos  | No aplica | Elimina todos los archivos  |
 | /files/recently_created  | No aplica  | Retorna los archivos que se crearon recientemente  | No aplica | No aplica  |
 
-Descripción de los formatos de envío de las solicitudes
+Formatos de envío de las solicitudes.
 
 |   |POST   |GET   |PUT   |DELETE   |
 |---|---|---|---|---|
 | /files  | JSON  | No aplica  | No aplica  | No aplica  |
 | /files/recently_created  | No aplica  | No aplica  | No aplica  | No aplica  |
 
-Descripción de los formatos de respuesta de las solicitudes
+Formatos de respuesta de las solicitudes.
 
 |   |POST   |GET   |PUT   |DELETE   |
 |---|---|---|---|---|
