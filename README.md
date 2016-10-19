@@ -122,22 +122,24 @@ A continuación se muestran los formatos tipo JSON (intercambio de datos).
 }
 ```
 ### /files
-<b> Método GET </b>
+<b> Método GET </b> <br>
 [!alt text]()
-<b> Método POST </b>
+<b> Método POST </b> <br>
 [!alt text]()
-<b> Método PUT </b>
+<b> Método PUT </b> <br>
 [!alt text]()
-<b> Método DELETE </b>
+<b> Método DELETE </b> <br>
+[!alt text]()
 
 ### /files/recently_created
-<b> Método GET </b>
+<b> Método GET </b> <br>
 [!alt text]()
-<b> Método POST </b>
+<b> Método POST </b> <br>
 [!alt text]()
-<b> Método PUT </b>
+<b> Método PUT </b> <br>
 [!alt text]()
-<b> Método DELETE </b>
+<b> Método DELETE </b> <br>
+[!alt text]()
 
 ##Envío de la solución por GitHub
 
