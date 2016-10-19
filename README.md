@@ -8,3 +8,12 @@
 
 <b>Creación del usuario</b>
 
+Se procede a crear el usuario filesystem_user con su respectiva contraseña.
+
+```linux
+# useradd filesystem_user
+# passwd filesystem_user
+```
+
+
+
