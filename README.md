@@ -4,6 +4,10 @@
 
 ---
 
+##Supuestos
+
+Antes de la realización de este parcial, se tienen los siguientes supuestos:
+  *Se ha instalado las librerías. nano, man, git, 
 
 ##Preparación Del Ambiente De Trabajo
 
@@ -69,4 +73,10 @@ Formatos de respuesta de las solicitudes.
 | /files  | HTTP 201 CREATED | JSON | HTTP 404 NOT FOUND | HTTP 200 OK |
 | /files/recently_created  | HTTP 404 NOT FOUND | JSON  | HTTP 404 NOT FOUND | HTTP 404 NOT FOUND |
 
+Se procede a crear un directorio donde se alojarán los archivos .py con los métodos de los servicios que cumplan los anteriores contratos.
+
+```sh
+$ cd ~/
+$ mkdir microservicesParcial
+```
 
