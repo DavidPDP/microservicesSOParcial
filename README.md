@@ -1,3 +1,3 @@
 # microservicesSOParcial
-Autor: Johan David Ballesteros \n
-Código: 13103036 
+<br>Autor:<br> Johan David Ballesteros
+<br>Código:<br> 13103036 
