@@ -79,4 +79,12 @@ Se procede a crear un directorio donde se alojarán los archivos .py con los mé
 $ cd ~/
 $ mkdir microservicesParcial
 ```
+Se proceden a crear los siguientes archivos: <br>
+<b> files.py <b>
+
+[Vista del archivo](https://github.com/DavidPDP/microservicesSOParcial/blob/master/services_parcial/files.py) <br>
+
+<b> files_commands.py <b>
+
+[Vista del archivo](https://github.com/DavidPDP/microservicesSOParcial/blob/master/services_parcial/files_commands.py) <br>
 
