@@ -6,8 +6,8 @@
 
 ##Supuestos
 
-Antes de la realización de este parcial, se tienen los siguientes supuestos:
-  *Se ha instalado las librerías. nano, man, git, 
+Antes de la realización de este parcial, se tienen los siguientes supuestos: <br>
+*Se ha instalado las librerías. nano, man, git, 
 
 ##Preparación Del Ambiente De Trabajo
 
