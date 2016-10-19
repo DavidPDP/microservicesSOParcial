@@ -44,5 +44,27 @@ $ pip freeze > requirements.txt
 $ pip install -r requirements.txt
 ```
 
+<b>Creación de los servicios</b>
+
+Para la creación de servicios se describe los siguientes contratos.
+
+|   |POST   |GET   |PUT   |DELETE   |
+|---|---|---|---|---|
+| /files  | Crear archivo  | Obtener listado de archivos  | No aplica | Elimina todos los archivos  |
+| /files/recently_created  | No aplica  | Retorna los archivos que se crearon recientemente  | No aplica | No aplica  |
+
+Descripción de los formatos de envío de las solicitudes
+
+|   |POST   |GET   |PUT   |DELETE   |
+|---|---|---|---|---|
+| /files  | JSON  | No aplica  | No aplica  | No aplica  |
+| /files/recently_created  | No aplica  | No aplica  | No aplica  | No aplica  |
+
+Descripción de los formatos de respuesta de las solicitudes
+
+|   |POST   |GET   |PUT   |DELETE   |
+|---|---|---|---|---|
+| /files  | HTTP 201 CREATED | JSON | HTTP 404 NOT FOUND | HTTP 200 OK |
+| /files/recently_created  | HTTP 404 NOT FOUND | JSON  | HTTP 404 NOT FOUND | HTTP 404 NOT FOUND |
 
 
