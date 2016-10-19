@@ -8,6 +8,7 @@
 
 Antes de la realización de este parcial, se tienen los siguientes supuestos: <br>
 * Se ha instalado las librerías. nano, man, git, 
+* Se ha generado el token "parcial", que por seguridad se entenderá que "parcial" es el token.
 
 ##Preparación Del Ambiente De Trabajo
 
@@ -120,4 +121,38 @@ A continuación se muestran los formatos tipo JSON (intercambio de datos).
   ]
 }
 ```
+### /files
+<b> Método GET </b>
+[!alt text]()
+<b> Método POST </b>
+[!alt text]()
+<b> Método PUT </b>
+[!alt text]()
+<b> Método DELETE </b>
 
+### /files/recently_created
+<b> Método GET </b>
+[!alt text]()
+<b> Método POST </b>
+[!alt text]()
+<b> Método PUT </b>
+[!alt text]()
+<b> Método DELETE </b>
+
+##Envío de la solución por GitHub
+
+Ahora comprobado los servicios, se procede a subir la solución al repositorio ubicado en GitHub.
+
+```sh
+$ cd ~/
+$ mkdir repositories
+$ cd repositories
+$ git clone https://github.com/DavidPDP/microservicesSOParcial.git
+$ git config remote.origin.url "https://parcial@https://github.com/DavidPDP/microservicesSOParcial"
+$ cd ~/
+$ cp microservicesParcial repositories/microservicesSOParcial
+$ cd repositories
+$ git add microservicesParcial
+$ git commit -m "Se adjunta la solución del parcial uno de la asignatura Sistemas Operativos"
+$ git push origin master
+```
