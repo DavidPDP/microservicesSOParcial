@@ -96,7 +96,7 @@ Una vez creado los archivos .py, se procede a activar los puertos.
 ```
 Procedemos a reiniciar el servicio de iptables.
 
-[!alt text]()
+![alt text]()
 
 ##Pruebas con PostMan
 
@@ -123,23 +123,23 @@ A continuación se muestran los formatos tipo JSON (intercambio de datos).
 ```
 ### /files
 <b> Método GET </b> <br>
-[!alt text]() <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/Uno.PNG) <br>
 <b> Método POST </b> <br>
-[!alt text]() <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/Dos.PNG) <br>
 <b> Método PUT </b> <br>
-[!alt text]() <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/Tres.PNG) <br>
 <b> Método DELETE </b> <br>
-[!alt text]() <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/Cuatro.PNG) <br>
 
 ### /files/recently_created
 <b> Método GET </b> <br>
-[!alt text]() <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/UnoA.PNG) <br>
 <b> Método POST </b> <br>
-[!alt text]() <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/UnoB.PNG) <br>
 <b> Método PUT </b> <br>
-[!alt text]() <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/UnoC.PNG) <br>
 <b> Método DELETE </b> <br>
-[!alt text]() <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/UnoD.PNG) <br>
 
 ##Envío de la solución por GitHub
 
