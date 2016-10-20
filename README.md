@@ -90,13 +90,15 @@ Se proceden a crear los siguientes archivos: <br>
 
 Una vez creado los archivos .py, se procede a activar los puertos.
 
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/Change.PNG)
+
 ```sh
 # cd /etc/sysconfig/
 # nano iptables
 ```
 Procedemos a reiniciar el servicio de iptables.
 
-![alt text]()
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/IpTables.PNG)
 
 ##Pruebas con PostMan
 
