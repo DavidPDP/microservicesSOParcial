@@ -137,11 +137,11 @@ A continuación se muestran los formatos tipo JSON (intercambio de datos).
 <b> Método GET </b> <br>
 ![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/UnoA.PNG) <br>
 <b> Método POST </b> <br>
-![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/DosB.PNG) <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/DosA.PNG) <br>
 <b> Método PUT </b> <br>
-![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/TresC.PNG) <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/TresA.PNG) <br>
 <b> Método DELETE </b> <br>
-![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/CuatroD.PNG) <br>
+![alt text](https://github.com/DavidPDP/microservicesSOParcial/blob/master/images/CuatroA.PNG) <br>
 
 ##Envío de la solución por GitHub
 
