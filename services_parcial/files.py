@@ -37,21 +37,21 @@ def delete_file():
   else:
     return 'HTTP 400 error', 400
 
-@app.route(api_url+'/files/recently',methods=['GET'])
+@app.route(api_url+'/files/recently_created',methods=['GET'])
 def read_recent_file():
   list = {}
   list["files"] = get_recently_files()
   return json.dumps(list), 200
 
-@app.route(api_url+'/files/recently',methods=['POST'])
+@app.route(api_url+'/files/recently_created',methods=['POST'])
 def create_recent_file():
   return "HTTP 404 NOT FOUND", 404
 
-@app.route(api_url+'/files/recently',methods=['PUT'])
+@app.route(api_url+'/files/recently_created',methods=['PUT'])
 def update_recent_file():
   return "HTTP 404 NOT FOUND", 404
 
-@app.route(api_url+'/files/recently',methods=['DELETE'])
+@app.route(api_url+'/files/recently_created',methods=['DELETE'])
 def delete_recent_files():
   return "HTTP 404 NOT FOUND", 404
 
